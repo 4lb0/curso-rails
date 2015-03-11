@@ -8,5 +8,5 @@ Curso Rails
 
     $ rvm use 2.2.0
 
-2. Seguir el [tutorial](http://guides.rubyonrails.org/getting_started.html#creating-a-new-rails-project)
+2. Seguir el [tutorial](http://guides.rubyonrails.org/getting_started.html#creating-a-new-rails-project) hasta la parte de eliminar el artículo, sin agregar los comentarios
 
